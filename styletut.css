@@ -1,0 +1,12 @@
+
+header{
+    text-align: center;
+    font-size:26px;
+}
+
+.pagina{
+    border:2px solid red;
+    background-color: wheat;
+    width: 50%;
+    height: 50%;
+}
